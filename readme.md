@@ -4,10 +4,10 @@ My name is Leandro (🇺🇾), I am 29 years old and I have been in the field of
 
 I like programming in its entirety, that is, not only do I like to program but I like to know the why of things and how they work at a lower level. Whenever I can I like to learn new technologies and keep abreast of updates that I already know. [My website](http://leandrocurbelo.uy)
 
-### Languages
+### Stats
 -----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curbe8&layout=compact&title_color=DB3D13&icon_color=DB3D13&bg_color=222&text_color=eee&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://streak-stats.demolab.com/?user=Curbe8&theme=dark)
 
 #### Help me with my personal projects as a referral
       

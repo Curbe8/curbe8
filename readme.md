@@ -7,7 +7,7 @@ I like programming in its entirety, that is, not only do I like to program but I
 ### Stats
 -----
 
-[![Stats](https://streak-stats.demolab.com/?user=Curbe8&theme=dark)
+![Stats](https://streak-stats.demolab.com/?user=Curbe8&theme=dark)
 
 #### Help me with my personal projects as a referral
       
